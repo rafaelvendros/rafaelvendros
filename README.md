@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning computer science at Vila Velha university in Brazil.
 - 💞️ I’m looking to collaborate in all areas of IT mainly seeking learning ...
 - 📫 How to reach me:
-      E - Mail: rafaelvendros@outlook.com
+      [E - Mail]: rafaelvendros@outlook.com
 
 
 <!---
